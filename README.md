@@ -1,2 +1,2 @@
 # my-ruby-note
-note
+Learning github commit
